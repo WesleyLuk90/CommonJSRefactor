@@ -1,0 +1,1 @@
+A refactor plugin for writing commonjs modules for sublime text

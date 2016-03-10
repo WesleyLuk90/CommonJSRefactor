@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "CommonJS Rename File",
+    "command": "cjs_rename_file"
+  },
+  {
+    "caption": "CommonJS Rename File Test",
+    "command": "cjs_do_rename_file",
+    "args": {"new_path": "C:\\Users\\wesleyluk\\Desktop\\cms\\javascript\\client\\parameters\\types\\DatabaseParameter.js"}
+  }
+]
